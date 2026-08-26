@@ -1,0 +1,1462 @@
+[
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓辰-多语",
+    "voice": "zh-CN-XiaochenMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaochenMultilingualNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓辰",
+    "voice": "zh-CN-XiaochenNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaochenNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓涵",
+    "voice": "zh-CN-XiaohanNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaohanNeural\", \"style\": \"affectionate\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓梦",
+    "voice": "zh-CN-XiaomengNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaomengNeural\", \"style\": \"chat\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓墨",
+    "voice": "zh-CN-XiaomoNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaomoNeural\", \"style\": \"affectionate\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓秋",
+    "voice": "zh-CN-XiaoqiuNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoqiuNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓柔",
+    "voice": "zh-CN-XiaorouNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaorouNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓睿",
+    "voice": "zh-CN-XiaoruiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoruiNeural\", \"style\": \"calm\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓双-多语",
+    "voice": "zh-CN-XiaoshuangMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoshuangMultilingualNeural\", \"style\": \"chat\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓双",
+    "voice": "zh-CN-XiaoshuangNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoshuangNeural\", \"style\": \"chat\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓晓-方言",
+    "voice": "zh-CN-XiaoxiaoDialectsNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoDialectsNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓晓-多语",
+    "voice": "zh-CN-XiaoxiaoMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoMultilingualNeural\", \"style\": \"affectionate\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓晓",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoNeural\", \"style\": \"chat\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓燕",
+    "voice": "zh-CN-XiaoyanNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyanNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓伊",
+    "voice": "zh-CN-XiaoyiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyiNeural\", \"style\": \"affectionate\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓悠-多语",
+    "voice": "zh-CN-XiaoyouMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyouMultilingualNeural\", \"style\": \"chat\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓悠",
+    "voice": "zh-CN-XiaoyouNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyouNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓雨-多语",
+    "voice": "zh-CN-XiaoyuMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyuMultilingualNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓真",
+    "voice": "zh-CN-XiaozhenNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaozhenNeural\", \"style\": \"cheerful\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云帆-多语",
+    "voice": "zh-CN-YunfanMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunfanMultilingualNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云峰",
+    "voice": "zh-CN-YunfengNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunfengNeural\", \"style\": \"cheerful\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云昊",
+    "voice": "zh-CN-YunhaoNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunhaoNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云健",
+    "voice": "zh-CN-YunjianNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunjianNeural\", \"style\": \"cheerful\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云杰",
+    "voice": "zh-CN-YunjieNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunjieNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云希",
+    "voice": "zh-CN-YunxiNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunxiNeural\", \"style\": \"chat\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云夏",
+    "voice": "zh-CN-YunxiaNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunxiaNeural\", \"style\": \"calm\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云骁-多语",
+    "voice": "zh-CN-YunxiaoMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunxiaoMultilingualNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云扬",
+    "voice": "zh-CN-YunyangNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyangNeural\", \"style\": \"customerservice\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云野",
+    "voice": "zh-CN-YunyeNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyeNeural\", \"style\": \"calm\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云逸-多语",
+    "voice": "zh-CN-YunyiMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyiMultilingualNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云泽",
+    "voice": "zh-CN-YunzeNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "标准音色",
+    "tags": [
+      "Edge TTS",
+      "标准音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunzeNeural\", \"style\": \"calm\", \"style_degree\": 1.2, \"speed\": 1.05, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云起-广西",
+    "voice": "zh-CN-guangxi-YunqiNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-guangxi-YunqiNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云登-河南",
+    "voice": "zh-CN-henan-YundengNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-henan-YundengNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "小贝-东北",
+    "voice": "zh-CN-liaoning-XiaobeiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-liaoning-XiaobeiNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云彪-东北",
+    "voice": "zh-CN-liaoning-YunbiaoNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-liaoning-YunbiaoNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "小妮-陕西",
+    "voice": "zh-CN-shaanxi-XiaoniNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-shaanxi-XiaoniNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云翔-山东",
+    "voice": "zh-CN-shandong-YunxiangNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-shandong-YunxiangNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云希-四川",
+    "voice": "zh-CN-sichuan-YunxiNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "方言音色",
+    "tags": [
+      "Edge TTS",
+      "方言音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-sichuan-YunxiNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓佳-粤语",
+    "voice": "zh-HK-HiuGaaiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "粤语音色",
+    "tags": [
+      "Edge TTS",
+      "粤语音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-HK-HiuGaaiNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓曼-粤语",
+    "voice": "zh-HK-HiuMaanNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "粤语音色",
+    "tags": [
+      "Edge TTS",
+      "粤语音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-HK-HiuMaanNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云龙-粤语",
+    "voice": "zh-HK-WanLungNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "粤语音色",
+    "tags": [
+      "Edge TTS",
+      "粤语音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-HK-WanLungNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓臻-台语",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "台语音色",
+    "tags": [
+      "Edge TTS",
+      "台语音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-TW-HsiaoChenNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓雨-台语",
+    "voice": "zh-TW-HsiaoYuNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "台语音色",
+    "tags": [
+      "Edge TTS",
+      "台语音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-TW-HsiaoYuNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云哲-台语",
+    "voice": "zh-TW-YunJheNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "台语音色",
+    "tags": [
+      "Edge TTS",
+      "台语音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-TW-YunJheNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "博MAI标准",
+    "voice": "zh-CN-Bo:MAI-Voice-2",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Bo:MAI-Voice-2\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "博MAI Flash",
+    "voice": "zh-CN-Bo:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Bo:MAI-Voice-2-Flash\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "岚MAI标准",
+    "voice": "zh-CN-Lan:MAI-Voice-2",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Lan:MAI-Voice-2\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "岚MAI Flash",
+    "voice": "zh-CN-Lan:MAI-Voice-2-Flash",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Lan:MAI-Voice-2-Flash\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "美MAI标准",
+    "voice": "zh-CN-Mei:MAI-Voice-2",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Mei:MAI-Voice-2\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "美MAI Flash",
+    "voice": "zh-CN-Mei:MAI-Voice-2-Flash",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Mei:MAI-Voice-2-Flash\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "威MAI标准",
+    "voice": "zh-CN-Wei:MAI-Voice-2",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "威MAI Flash",
+    "voice": "zh-CN-Wei:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2-Flash\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓辰HD",
+    "voice": "zh-CN-Xiaochen:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaochen:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓涵HD",
+    "voice": "zh-CN-Xiaohan:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaohan:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓珂HD",
+    "voice": "zh-CN-Xiaoke:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoke:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓墨HD",
+    "voice": "zh-CN-Xiaomo:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaomo:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓琦HD",
+    "voice": "zh-CN-Xiaoqi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoqi:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓柔HD",
+    "voice": "zh-CN-Xiaorou:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaorou:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓双HD",
+    "voice": "zh-CN-Xiaoshuang:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoshuang:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓晓2HD",
+    "voice": "zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓晓HD",
+    "voice": "zh-CN-Xiaoxiao:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoxiao:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓伊HD",
+    "voice": "zh-CN-Xiaoyi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyi:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓悠HD",
+    "voice": "zh-CN-Xiaoyou:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyou:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "晓雨HD",
+    "voice": "zh-CN-Xiaoyu:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyu:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云帆HD",
+    "voice": "zh-CN-Yunfan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfan:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云峰HD",
+    "voice": "zh-CN-Yunfeng:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfeng:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云瀚HD",
+    "voice": "zh-CN-Yunhan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunhan:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云杰HD",
+    "voice": "zh-CN-Yunjie:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunjie:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云希HD",
+    "voice": "zh-CN-Yunxi:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxi:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云夏HD",
+    "voice": "zh-CN-Yunxia:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxia:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云骁HD",
+    "voice": "zh-CN-Yunxiao:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxiao:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云野HD",
+    "voice": "zh-CN-Yunye:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunye:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "云逸HD",
+    "voice": "zh-CN-Yunyi:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF HD 音色",
+    "tags": [
+      "Edge TTS",
+      "CF HD 音色"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunyi:DragonHDFlashLatestNeural\", \"speed\": 1.0}"
+    }
+  }
+]

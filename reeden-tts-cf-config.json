@@ -1,0 +1,2048 @@
+[
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "旁白-男沉稳",
+    "voice": "zh-CN-Yunfan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "旁白",
+      "男声",
+      "沉稳"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfan:DragonHDFlashLatestNeural\", \"speed\": 0.95, \"pitch\": -3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "旁白-女知性",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "旁白",
+      "女声",
+      "知性"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoNeural\", \"speed\": 0.98, \"style\": \"serious\", \"style_degree\": 1.2, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "旁白-女HD",
+    "voice": "zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "旁白",
+      "HD",
+      "自然"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural\", \"speed\": 0.96, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "旁白-播音腔",
+    "voice": "zh-CN-YunyangNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "旁白",
+      "播音",
+      "新闻"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyangNeural\", \"speed\": 0.98, \"style\": \"newscast-casual\", \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-热血",
+    "voice": "zh-CN-Yunfan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "男主",
+      "热血",
+      "爽文"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfan:DragonHDFlashLatestNeural\", \"speed\": 1.05, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-冷静",
+    "voice": "zh-CN-YunzeNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "男主",
+      "理性",
+      "智斗"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunzeNeural\", \"speed\": 0.96, \"style\": \"serious\", \"style_degree\": 1.0, \"pitch\": -5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-少年",
+    "voice": "zh-CN-Yunxia:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "男主",
+      "少年",
+      "青春"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxia:DragonHDFlashLatestNeural\", \"speed\": 1.05, \"pitch\": 8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-霸道",
+    "voice": "zh-CN-Yunye:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "男主",
+      "霸道",
+      "贵族"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunye:DragonHDFlashLatestNeural\", \"speed\": 0.94, \"pitch\": -6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-温柔",
+    "voice": "zh-CN-Yunxia:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "男主",
+      "温柔",
+      "邻家"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxia:DragonHDFlashLatestNeural\", \"speed\": 0.92, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女主-温柔",
+    "voice": "zh-CN-Xiaoyi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女主",
+      "温柔",
+      "正宫"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyi:DragonHDFlashLatestNeural\", \"speed\": 0.92, \"pitch\": 1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女主-御姐",
+    "voice": "zh-CN-Xiaochen:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女主",
+      "御姐",
+      "高冷"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaochen:DragonHDFlashLatestNeural\", \"speed\": 0.97, \"pitch\": -8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女主-元气",
+    "voice": "zh-CN-Xiaohan:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女主",
+      "元气",
+      "活泼"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaohan:DragonHDFlashLatestNeural\", \"speed\": 1.08, \"pitch\": 7}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女主-清冷",
+    "voice": "zh-CN-Xiaomo:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女主",
+      "清冷",
+      "孤傲"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaomo:DragonHDFlashLatestNeural\", \"speed\": 0.94, \"pitch\": -4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女主-甜美",
+    "voice": "zh-CN-XiaoyiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女主",
+      "甜美",
+      "软萌"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyiNeural\", \"speed\": 1.03, \"style\": \"cheerful\", \"style_degree\": 1.3, \"pitch\": 8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "反派-压迫",
+    "voice": "zh-CN-Yunye:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "反派",
+      "低沉",
+      "威压"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunye:DragonHDFlashLatestNeural\", \"speed\": 0.88, \"pitch\": -6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "反派-狂妄",
+    "voice": "zh-CN-Yunyi:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "反派",
+      "狂妄",
+      "嚣张"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunyi:DragonHDFlashLatestNeural\", \"speed\": 1.04, \"pitch\": 5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "反派-阴狠",
+    "voice": "zh-CN-YunfengNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "反派",
+      "阴狠",
+      "刺客"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunfengNeural\", \"speed\": 0.86, \"style\": \"serious\", \"style_degree\": 1.2, \"pitch\": -8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "师父-长者",
+    "voice": "zh-CN-YunjianNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "师父",
+      "长者",
+      "导师"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunjianNeural\", \"speed\": 0.88, \"style\": \"narration-relaxed\", \"style_degree\": 1.0, \"pitch\": -3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "老者-沧桑",
+    "voice": "zh-CN-Yunjie:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "老者",
+      "沧桑",
+      "年长"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunjie:DragonHDFlashLatestNeural\", \"speed\": 0.84, \"pitch\": -7}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-活泼",
+    "voice": "zh-CN-Xiaoyou:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女配",
+      "活泼",
+      "闺蜜"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyou:DragonHDFlashLatestNeural\", \"speed\": 1.08, \"pitch\": 7}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-温柔",
+    "voice": "zh-CN-XiaoyiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "女配",
+      "温柔",
+      "青梅"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyiNeural\", \"speed\": 0.94, \"style\": \"gentle\", \"style_degree\": 1.3, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男配-憨厚",
+    "voice": "zh-CN-Wei:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "男配",
+      "憨厚",
+      "兄弟"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2-Flash\", \"speed\": 0.92, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "系统-助手",
+    "voice": "zh-CN-Xiaoshuang:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "系统",
+      "助手",
+      "播报"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoshuang:DragonHDFlashLatestNeural\", \"speed\": 1.02, \"pitch\": 4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "配角-东北",
+    "voice": "zh-CN-liaoning-XiaobeiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "方言",
+      "东北",
+      "喜剧"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-liaoning-XiaobeiNeural\", \"speed\": 1.1, \"pitch\": 5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "配角-四川",
+    "voice": "zh-CN-sichuan-YunxiNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "方言",
+      "四川",
+      "喜剧"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-sichuan-YunxiNeural\", \"speed\": 1.05, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "诵读-诗人吟诵",
+    "voice": "zh-CN-Yunfan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "文学",
+      "诗人",
+      "吟诵"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfan:DragonHDFlashLatestNeural\", \"speed\": 0.88, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "诵读-柔声朗读",
+    "voice": "zh-CN-Xiaoyou:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "文学",
+      "柔声",
+      "朗读"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyou:DragonHDFlashLatestNeural\", \"speed\": 0.86, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "诵读-文学旁白",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "文学",
+      "旁白",
+      "抒情"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoNeural\", \"speed\": 0.94, \"style\": \"lyrical\", \"style_degree\": 1.2, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "低语-气声女",
+    "voice": "zh-CN-Xiaoqi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "低语",
+      "气声",
+      "暧昧"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoqi:DragonHDFlashLatestNeural\", \"speed\": 0.82, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "低语-软声女",
+    "voice": "zh-CN-Mei:MAI-Voice-2-Flash",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "低语",
+      "软声",
+      "暧昧"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Mei:MAI-Voice-2-Flash\", \"speed\": 0.84, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": 6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "低语-低语男",
+    "voice": "zh-CN-Yunhan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "低语",
+      "低音",
+      "暧昧"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunhan:DragonHDFlashLatestNeural\", \"speed\": 0.84, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "低语-磁性男",
+    "voice": "zh-CN-Bo:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "低语",
+      "磁性",
+      "暧昧"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Bo:MAI-Voice-2-Flash\", \"speed\": 0.84, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": -6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-气声女",
+    "voice": "zh-CN-Xiaoke:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "气声",
+      "耳语"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoke:DragonHDFlashLatestNeural\", \"speed\": 0.74, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": 5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-软呢女",
+    "voice": "zh-CN-Mei:MAI-Voice-2-Flash",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "软呢",
+      "温柔"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Mei:MAI-Voice-2-Flash\", \"speed\": 0.74, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": 8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-娇喘女",
+    "voice": "zh-CN-Xiaoke:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "娇喘",
+      "少女"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoke:DragonHDFlashLatestNeural\", \"speed\": 0.72, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": 6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-柔声女",
+    "voice": "zh-CN-Xiaoqi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "柔声",
+      "气声"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoqi:DragonHDFlashLatestNeural\", \"speed\": 0.76, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": 4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-涩气女",
+    "voice": "zh-CN-Xiaoyi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "涩气",
+      "挑逗"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyi:DragonHDFlashLatestNeural\", \"speed\": 0.76, \"style\": \"shy\", \"style_degree\": 1.5, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-低语男",
+    "voice": "zh-CN-Bo:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "低语",
+      "低沉"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Bo:MAI-Voice-2-Flash\", \"speed\": 0.76, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": -8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-磁性男",
+    "voice": "zh-CN-Yunhan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "磁性",
+      "低音"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunhan:DragonHDFlashLatestNeural\", \"speed\": 0.76, \"style\": \"whispering\", \"style_degree\": 1.5, \"pitch\": -7}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情欲-温存男",
+    "voice": "zh-CN-Yunxia:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情欲",
+      "温存",
+      "温柔"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxia:DragonHDFlashLatestNeural\", \"speed\": 0.8, \"style\": \"comforting\", \"style_degree\": 1.5, \"pitch\": -3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-愤怒",
+    "voice": "zh-CN-Wei:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "愤怒",
+      "暴怒"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2-Flash\", \"speed\": 1.12, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-悲伤",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "悲伤",
+      "哭泣"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoNeural\", \"speed\": 0.82, \"style\": \"sad\", \"style_degree\": 1.5, \"pitch\": -4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-开心",
+    "voice": "zh-CN-Xiaohan:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "开心",
+      "欢笑"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaohan:DragonHDFlashLatestNeural\", \"speed\": 1.12, \"pitch\": 5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-恐惧",
+    "voice": "zh-CN-Xiaoqi:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "恐惧",
+      "惊吓"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoqi:DragonHDFlashLatestNeural\", \"speed\": 1.14, \"pitch\": 8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-温柔",
+    "voice": "zh-CN-XiaoyiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "温柔",
+      "安抚"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyiNeural\", \"speed\": 0.86, \"style\": \"gentle\", \"style_degree\": 1.5, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-冷漠",
+    "voice": "zh-CN-YunzeNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "冷漠",
+      "无情"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunzeNeural\", \"speed\": 0.94, \"style\": \"calm\", \"style_degree\": 1.0, \"pitch\": -7}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-害羞",
+    "voice": "zh-CN-XiaoyiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "害羞",
+      "脸红"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyiNeural\", \"speed\": 0.92, \"style\": \"embarrassed\", \"style_degree\": 1.2, \"pitch\": 6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-低落",
+    "voice": "zh-CN-YunfengNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "低落",
+      "消沉"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunfengNeural\", \"speed\": 0.82, \"style\": \"depressed\", \"style_degree\": 1.3, \"pitch\": -4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "情绪-安抚",
+    "voice": "zh-CN-XiaoyiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "情绪",
+      "安抚",
+      "安慰"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyiNeural\", \"speed\": 0.86, \"style\": \"gentle\", \"style_degree\": 1.5, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-傲娇",
+    "voice": "zh-CN-XiaozhenNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "傲娇少女",
+      "傲娇女配，声音带别扭和嘴硬，适合大小姐、毒舌但心软。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaozhenNeural\", \"speed\": 1.02, \"style\": \"angry\", \"style_degree\": 1.2, \"pitch\": 4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-软萌",
+    "voice": "zh-CN-Xiaoke:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "软萌萝莉",
+      "软萌可爱女配，声音又软又糯，适合小妹妹、宠物系、团宠。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoke:DragonHDFlashLatestNeural\", \"speed\": 1.02, \"pitch\": 7}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-高冷",
+    "voice": "zh-CN-XiaoruiNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "清冷御姐",
+      "高冷女配，声线冷语调淡，适合冷艳美人、独立女性。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoruiNeural\", \"speed\": 0.98, \"style\": \"calm\", \"style_degree\": 1.0, \"pitch\": -5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-泼辣",
+    "voice": "zh-CN-Xiaoyu:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "泼辣女声",
+      "泼辣爽直女配，声音洪亮语速快，适合麻辣老板娘、女汉子。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyu:DragonHDFlashLatestNeural\", \"speed\": 1.08, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女主-邻家",
+    "voice": "zh-CN-Xiaoyou:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "邻家女孩",
+      "邻家女孩女主，声音亲切自然，适合青梅竹马、日常温馨。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoyou:DragonHDFlashLatestNeural\", \"speed\": 1.0, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-知性",
+    "voice": "zh-CN-XiaozhenNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "知性女声",
+      "知性理性女配，声线沉稳清晰，适合女律师、女博士、女精英。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaozhenNeural\", \"speed\": 0.96, \"style\": \"serious\", \"style_degree\": 1.0, \"pitch\": -5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "女配-飒爽",
+    "voice": "zh-CN-Xiaochen:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "飒爽女声",
+      "英姿飒爽女配，声线利落有力量，适合女警、女侠、军人。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaochen:DragonHDFlashLatestNeural\", \"speed\": 1.06, \"pitch\": 1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-磁性",
+    "voice": "zh-CN-Bo:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "磁性男声",
+      "磁性低沉男主，声线厚实有魅力，适合成熟总裁、将军、大叔。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Bo:MAI-Voice-2-Flash\", \"speed\": 0.92, \"pitch\": -6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-儒雅",
+    "voice": "zh-CN-YunjianNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "儒雅男声",
+      "温文儒雅男主，声线平和有书卷气，适合文人、谋士、贵公子。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunjianNeural\", \"speed\": 0.96, \"style\": \"serious\", \"style_degree\": 1.0, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男配-轻浮",
+    "voice": "zh-CN-YunyiMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "轻浮男声",
+      "轻浮花心男配，声音上扬带玩味，适合花花公子、浪子。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyiMultilingualNeural\", \"speed\": 1.12, \"pitch\": 6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "老者-威严",
+    "voice": "zh-CN-YunjianNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "威严老者",
+      "威严老者，声音低沉有分量，适合老族长、掌门、长老。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunjianNeural\", \"speed\": 0.82, \"style\": \"serious\", \"style_degree\": 1.0, \"pitch\": -8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "反派-阴鸷",
+    "voice": "zh-CN-YunyeNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "阴鸷反派",
+      "阴鸷深沉反派，声音极低语速极慢，适合笑面虎、城府深。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyeNeural\", \"speed\": 0.84, \"style\": \"serious\", \"style_degree\": 1.2, \"pitch\": -8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男配-粗犷",
+    "voice": "zh-CN-Wei:MAI-Voice-2-Flash",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "粗犷男声",
+      "粗犷豪爽男配，声音洪亮带沙哑，适合壮汉、武夫、糙汉。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2-Flash\", \"speed\": 0.94, \"pitch\": -5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "男主-青年",
+    "voice": "zh-CN-YunhaoNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "中文",
+      "青年男声",
+      "普通青年男主，声音自然亲切，适合都市日常、职场、生活流。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunhaoNeural\", \"speed\": 1.02, \"pitch\": 4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "病娇男主",
+    "voice": "zh-CN-Yunhan:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "表面温柔体贴，实则占有欲极强，为爱疯狂偏执，说话先柔后冷，尾音常带危险上扬，如毒蛇吐信。",
+      "表面温柔体贴，实则占有欲极强，为爱疯狂偏执，说话先柔后冷，尾音常带危险上扬，如毒蛇吐信。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunhan:DragonHDFlashLatestNeural\", \"speed\": 0.95, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "腹黑男主",
+    "voice": "zh-CN-YunfanMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "心思深沉，笑里藏刀，运筹帷幄的谋士型男主，语气从容不迫，偶带戏谑，字字珠玑却暗藏机锋。",
+      "心思深沉，笑里藏刀，运筹帷幄的谋士型男主，语气从容不迫，偶带戏谑，字字珠玑却暗藏机锋。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunfanMultilingualNeural\", \"speed\": 1.0, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "忠犬男主",
+    "voice": "zh-CN-YunxiNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "忠诚不渝，誓死追随女主，性格单纯直率，说话恳切热烈，常带憨厚笑意，关键时刻霸气护主。",
+      "忠诚不渝，誓死追随女主，性格单纯直率，说话恳切热烈，常带憨厚笑意，关键时刻霸气护主。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunxiNeural\", \"speed\": 1.05, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "浪子男主",
+    "voice": "zh-CN-Yunfeng:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "风流潇洒，阅尽千帆，看似玩世不恭实则内心孤独，语调慵懒带点痞气，尾音拖长，撩人于无形。",
+      "风流潇洒，阅尽千帆，看似玩世不恭实则内心孤独，语调慵懒带点痞气，尾音拖长，撩人于无形。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfeng:DragonHDFlashLatestNeural\", \"speed\": 1.1, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "高冷男主",
+    "voice": "zh-CN-Yunxi:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "冰山总裁/仙尊，生人勿近，沉默寡言，说话简短冷硬，如冰击玉盘，偶尔泄露一丝温柔便格外动人。",
+      "冰山总裁/仙尊，生人勿近，沉默寡言，说话简短冷硬，如冰击玉盘，偶尔泄露一丝温柔便格外动人。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxi:DragonHDFlashLatestNeural\", \"speed\": 0.9, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "病娇女主",
+    "voice": "zh-CN-XiaorouNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "甜美外表下隐藏偏执疯狂，为爱不择手段，说话轻软甜腻却蕴含病态，常伴随神经质的轻笑。",
+      "甜美外表下隐藏偏执疯狂，为爱不择手段，说话轻软甜腻却蕴含病态，常伴随神经质的轻笑。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaorouNeural\", \"speed\": 0.9, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "腹黑女主",
+    "voice": "zh-CN-XiaomoNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "聪慧狡黠，步步为营，善于示弱却掌控全局，语气温婉无害，实则句句诛心，令人防不胜防。",
+      "聪慧狡黠，步步为营，善于示弱却掌控全局，语气温婉无害，实则句句诛心，令人防不胜防。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaomoNeural\", \"speed\": 1.0, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "倔强女主",
+    "voice": "zh-CN-XiaoshuangNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "坚韧不拔，逆境成长，从不向命运低头，说话有力干脆，眼神明亮，即使落泪也咬牙不服输。",
+      "坚韧不拔，逆境成长，从不向命运低头，说话有力干脆，眼神明亮，即使落泪也咬牙不服输。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoshuangNeural\", \"speed\": 1.05, \"pitch\": 1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "呆萌女主",
+    "voice": "zh-CN-XiaomengNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "天真迷糊，常常搞不清状况，反射弧长，说话软糯慢半拍，尾音上扬，自带无辜与治愈感。",
+      "天真迷糊，常常搞不清状况，反射弧长，说话软糯慢半拍，尾音上扬，自带无辜与治愈感。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaomengNeural\", \"speed\": 0.9, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "古灵精怪女主",
+    "voice": "zh-CN-XiaohanNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "活泼俏皮，满脑子奇思妙想，爱捉弄人，说话叽叽喳喳语速飞快，笑声明亮，充满灵气。",
+      "活泼俏皮，满脑子奇思妙想，爱捉弄人，说话叽叽喳喳语速飞快，笑声明亮，充满灵气。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaohanNeural\", \"speed\": 1.15, \"pitch\": 3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "正太音",
+    "voice": "zh-CN-Yunxiao:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "稚嫩清亮少年音，约莫七八岁男童，天真烂漫，说话奶声奶气却又故作大人模样，尾音常带小骄傲。",
+      "稚嫩清亮少年音，约莫七八岁男童，天真烂漫，说话奶声奶气却又故作大人模样，尾音常带小骄傲。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxiao:DragonHDFlashLatestNeural\", \"speed\": 1.0, \"pitch\": 6}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "萝莉音",
+    "voice": "zh-CN-Xiaorou:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "甜美软萌小女孩，乖巧可爱，说话细声细气，叠词多，尾音糯糯的，一声“哥哥/姐姐”能把人心融化。",
+      "甜美软萌小女孩，乖巧可爱，说话细声细气，叠词多，尾音糯糯的，一声“哥哥/姐姐”能把人心融化。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaorou:DragonHDFlashLatestNeural\", \"speed\": 0.95, \"pitch\": 8}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "御弟音",
+    "voice": "zh-CN-YunxiaoMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "温润清贵的少年王爷/世家公子，谦逊有礼，说话如春风拂面，音色清朗，带着贵族独有的矜持与教养。",
+      "温润清贵的少年王爷/世家公子，谦逊有礼，说话如春风拂面，音色清朗，带着贵族独有的矜持与教养。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunxiaoMultilingualNeural\", \"speed\": 1.0, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "大哥哥型",
+    "voice": "zh-CN-YunyiMultilingualNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "可靠沉稳的邻家大哥，重情重义，照顾弱小，说话稳重温和，带着不容置疑的安全感，关键时刻可托付性命。",
+      "可靠沉稳的邻家大哥，重情重义，照顾弱小，说话稳重温和，带着不容置疑的安全感，关键时刻可托付性命。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunyiMultilingualNeural\", \"speed\": 1.0, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "大嫂音",
+    "voice": "zh-CN-XiaoyanNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "豪爽热辣的大姐头，义字当头，护短，说话风风火火，嗓门响亮，骂人带劲，对兄弟却掏心掏肺。",
+      "豪爽热辣的大姐头，义字当头，护短，说话风风火火，嗓门响亮，骂人带劲，对兄弟却掏心掏肺。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyanNeural\", \"speed\": 1.0, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "掌柜/商人",
+    "voice": "zh-CN-Wei:MAI-Voice-2",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "精明市侩的生意人，满面堆笑，见人说人话，说话圆滑世故，尾音拖长，带着算计与讨好，心思活络。",
+      "精明市侩的生意人，满面堆笑，见人说人话，说话圆滑世故，尾音拖长，带着算计与讨好，心思活络。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2\", \"speed\": 1.1, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "道士/天师",
+    "voice": "zh-CN-Wei:MAI-Voice-2",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "仙风道骨，超然物外，说话慢悠悠的，中气十足，带着玄之又玄的禅机，偶尔蹦出几句听不懂的法诀。",
+      "仙风道骨，超然物外，说话慢悠悠的，中气十足，带着玄之又玄的禅机，偶尔蹦出几句听不懂的法诀。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Wei:MAI-Voice-2\", \"speed\": 0.85, \"pitch\": -3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "和尚/禅师",
+    "voice": "zh-CN-Bo:MAI-Voice-2",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "慈悲为怀，宝相庄严，说话不急不缓，声音浑厚低沉，自带檀香禅意，每句都仿佛蕴含佛理。",
+      "慈悲为怀，宝相庄严，说话不急不缓，声音浑厚低沉，自带檀香禅意，每句都仿佛蕴含佛理。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Bo:MAI-Voice-2\", \"speed\": 0.8, \"pitch\": -2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "疯批反派",
+    "voice": "zh-CN-Yunfeng:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "癫狂偏执，藐视一切规则，笑声尖锐刺耳，说话忽快忽慢，情绪极端，时而优雅时而咆哮，令人毛骨悚然。",
+      "癫狂偏执，藐视一切规则，笑声尖锐刺耳，说话忽快忽慢，情绪极端，时而优雅时而咆哮，令人毛骨悚然。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunfeng:DragonHDFlashLatestNeural\", \"speed\": 1.1, \"pitch\": 1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "伪善反派",
+    "voice": "zh-CN-YunjieNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "表面道貌岸然，内心阴险歹毒，说话温和慈祥，满口仁义道德，实则字字陷阱，典型的笑面虎。",
+      "表面道貌岸然，内心阴险歹毒，说话温和慈祥，满口仁义道德，实则字字陷阱，典型的笑面虎。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunjieNeural\", \"speed\": 0.95, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "老谋深算反派",
+    "voice": "zh-CN-Yunxiao:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "城府极深的老狐狸，布局千里，说话慢条斯理，声音沙哑如砂纸，每一个字都经过深思熟虑，不怒自威。",
+      "城府极深的老狐狸，布局千里，说话慢条斯理，声音沙哑如砂纸，每一个字都经过深思熟虑，不怒自威。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxiao:DragonHDFlashLatestNeural\", \"speed\": 0.9, \"pitch\": -4}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "小丑型反派",
+    "voice": "zh-CN-Yunxiao:DragonHDFlashLatestNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "以作恶为乐，幽默又残忍，说话滑稽夸张，语调阴阳怪气，常伴随古怪笑声，把恐怖变成一场狂欢。",
+      "以作恶为乐，幽默又残忍，说话滑稽夸张，语调阴阳怪气，常伴随古怪笑声，把恐怖变成一场狂欢。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Yunxiao:DragonHDFlashLatestNeural\", \"speed\": 1.2, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "系统电子音",
+    "voice": "zh-CN-XiaoxiaoMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "CF 氛围",
+      "冰冷机械，毫无感情波动的电子合成音，字正腔圆，播报式语调，常伴随“叮”的提示音，是系统流小说的标志。",
+      "冰冷机械，毫无感情波动的电子合成音，字正腔圆，播报式语调，常伴随“叮”的提示音，是系统流小说的标志。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoxiaoMultilingualNeural\", \"speed\": 1.0, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "机械音",
+    "voice": "zh-CN-XiaoshuangMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 氛围",
+    "tags": [
+      "Edge TTS",
+      "CF 氛围",
+      "金属质感浓重，带电流杂音，像变形金刚或机器人说话，断句生硬，强调逻辑，缺乏人类情感起伏。",
+      "金属质感浓重，带电流杂音，像变形金刚或机器人说话，断句生硬，强调逻辑，缺乏人类情感起伏。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoshuangMultilingualNeural\", \"speed\": 0.9, \"pitch\": -5}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "仙风道骨老者",
+    "voice": "zh-CN-YunxiaNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "鹤发童颜，修为深不可测的世外高人，说话如从云端飘落，空灵悠远，尾音常带叹息，蕴含千年智慧。",
+      "鹤发童颜，修为深不可测的世外高人，说话如从云端飘落，空灵悠远，尾音常带叹息，蕴含千年智慧。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-YunxiaNeural\", \"speed\": 0.8, \"pitch\": -3}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "市井大妈",
+    "voice": "zh-CN-Mei:MAI-Voice-2",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "街头巷尾的热心肠大妈，八卦灵通，说话大嗓门，语速飞快，夹带方言俚语，烟火气十足，吵吵嚷嚷中透着亲切。",
+      "街头巷尾的热心肠大妈，八卦灵通，说话大嗓门，语速飞快，夹带方言俚语，烟火气十足，吵吵嚷嚷中透着亲切。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Mei:MAI-Voice-2\", \"speed\": 1.1, \"pitch\": 2}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "医生/医师",
+    "voice": "zh-CN-Lan:MAI-Voice-2-Flash",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "冷静专业的白大褂，见过无数生死，说话理性客观，语速平稳，带着不容置疑的权威感，偶尔流露一丝悲悯。",
+      "冷静专业的白大褂，见过无数生死，说话理性客观，语速平稳，带着不容置疑的权威感，偶尔流露一丝悲悯。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Lan:MAI-Voice-2-Flash\", \"speed\": 0.95, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "律师/状师",
+    "voice": "zh-CN-XiaoyouMultilingualNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "口若悬河，逻辑严密，法庭上的雄辩家，说话字字铿锵，节奏极强，善于抓住漏洞一击致命，气场全开。",
+      "口若悬河，逻辑严密，法庭上的雄辩家，说话字字铿锵，节奏极强，善于抓住漏洞一击致命，气场全开。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-XiaoyouMultilingualNeural\", \"speed\": 1.1, \"pitch\": 0}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "警察/捕快",
+    "voice": "zh-CN-Xiaoxiao:DragonHDFlashLatestNeural",
+    "sex": 0,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "正气凛然，铁面无私，维护法纪的执法者，说话干脆利落，不容通融，声线沉稳，给人强大的压迫感与安全感。",
+      "正气凛然，铁面无私，维护法纪的执法者，说话干脆利落，不容通融，声线沉稳，给人强大的压迫感与安全感。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-CN-Xiaoxiao:DragonHDFlashLatestNeural\", \"speed\": 1.05, \"pitch\": -1}"
+    }
+  },
+  {
+    "url": "https://ctts.jingzhe645.top/v1/audio/speech",
+    "name": "粤语大佬",
+    "voice": "zh-HK-WanLungNeural",
+    "sex": 1,
+    "locale": "zh-CN",
+    "group": "CF 角色",
+    "tags": [
+      "Edge TTS",
+      "CF 角色",
+      "粤语区江湖大哥，霸气侧漏，说话带粤语腔调，语气凶狠，重情重义，一言不合就开打，气势逼人。",
+      "粤语区江湖大哥，霸气侧漏，说话带粤语腔调，语气凶狠，重情重义，一言不合就开打，气势逼人。"
+    ],
+    "params": {
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Content-Type": "application/json"
+      },
+      "body": "{\"model\": \"tts-1\", \"input\": \"{{text}}\", \"voice\": \"zh-HK-WanLungNeural\", \"speed\": 1.0, \"pitch\": -3}"
+    }
+  }
+]
